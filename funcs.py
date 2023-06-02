@@ -1,6 +1,6 @@
 def add_numbers(x, y):
-    sum = x + y
-    return sum
+    deduction = x - y
+    return deduction
 
 
 num1 = 15
