@@ -1,2 +1,3 @@
-import funcs
-print (funcs)
+import funcs1
+
+print(funcs1.add_numbers)

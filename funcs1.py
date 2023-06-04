@@ -8,8 +8,8 @@ num2 = 20
 
 print("The sum is", add_numbers(num1, num2))
 
-def add_num(x, y):
-   num = x - y
+def add_num(q, w):
+   num = q - w
    return num
 
 
